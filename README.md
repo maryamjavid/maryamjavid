@@ -1,4 +1,6 @@
 - 👋 Hi, I’m @maryamjavid
+- 👩‍🎓 Computer Science Student at UNIVE,
+- 👩‍💻 Enthusiastic about Cybersecurity and Networking.
 - 📫 email: maryam.javid9472@gmail.com
 
 <!---
